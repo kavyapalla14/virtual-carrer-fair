@@ -1,5 +1,5 @@
 import React from 'react';
-import '../pages/PageStyles.css';
+import '@/pages/PageStyles.css';
 
 
 import { useNavigate } from 'react-router-dom';
