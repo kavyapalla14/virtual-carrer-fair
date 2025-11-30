@@ -1,5 +1,5 @@
 import React from 'react';
-import '../Pages/PageStyles.css';
+import '../pages/PageStyles.css';
 const CompanyBooth = () => {
   const companies = [
     { name: "Google", role: "Software Engineer Intern" },

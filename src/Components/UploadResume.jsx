@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../Pages/PageStyles.css';
+import '../pages/PageStyles.css';
 
 const UploadResume = () => {
   const [fileName, setFileName] = useState('');

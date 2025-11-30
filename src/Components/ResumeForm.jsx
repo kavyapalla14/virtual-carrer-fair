@@ -1,6 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import '../Pages/PageStyles.css';
+import '../pages/PageStyles.css';
 
 const ResumeForm = () => {
   const navigate = useNavigate();
