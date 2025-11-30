@@ -1,0 +1,37 @@
+.resume-container {
+  height: 100vh;
+  background: linear-gradient(145deg, #fddb92, #d1fdff);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.resume-form {
+  background: white;
+  padding: 2rem 3rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.resume-form h2 {
+  margin-bottom: 1rem;
+}
+
+.resume-form input[type='file'] {
+  display: block;
+  margin: 1rem auto;
+}
+
+.resume-form button {
+  padding: 0.7rem 1.5rem;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.resume-form button:hover {
+  background-color: #3e8e41;
+}
